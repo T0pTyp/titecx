@@ -27,7 +27,7 @@ export default function Impressum() {
               <h2 className="text-xl font-semibold text-white mb-3">Kontakt</h2>
               <p className="text-white/80">
                 Telefon: 015751356224<br />
-                E-Mail: kontakz@ti-tecx.de
+                E-Mail: kontakt@ti-tecx.de
               </p>
             </div>
 
